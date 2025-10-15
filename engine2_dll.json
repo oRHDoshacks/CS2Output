@@ -348,22 +348,29 @@
       }
     },
     "enums": {
-      "EntityDormancyType_t": {
-        "alignment": 4,
+      "_": {
+        "alignment": 90,
         "members": {
-          "ENTITY_DORMANT": 1,
-          "ENTITY_NOT_DORMANT": 0,
-          "ENTITY_SUSPENDED": 2
+          "": 5247128182409445509,
+          "\u0001": 6975473792665600,
+          "C7U:�9": 281631953469696
         },
-        "type": "uint32"
+        "type": "unknown"
       },
-      "EntityIOTargetType_t": {
+      "_D_h___t__________L_5__X_Lc_L_t_pL___xK___H______": {
+        "alignment": 0,
+        "members": {
+          "": 4294967295,
+          "x�t��": 68719476749,
+          "�p�\t�\u0002": 4,
+          "��]��": 1090519040
+        },
+        "type": "unknown"
+      },
+      "ed_____1_______GetStateWeight__1______0_000000____2_____GetTimeInState_______0_3________IsTagActive_TAG_DO_NOT_INTERRPUT_LOOKAT_____3_____1____": {
         "alignment": 4,
         "members": {
-          "ENTITY_IO_TARGET_EHANDLE": 6,
-          "ENTITY_IO_TARGET_ENTITYNAME": 2,
-          "ENTITY_IO_TARGET_ENTITYNAME_OR_CLASSNAME": 7,
-          "ENTITY_IO_TARGET_INVALID": -1
+          "": 0
         },
         "type": "uint32"
       }
