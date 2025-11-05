@@ -1,0 +1,1186 @@
+{
+  "client.dll": {
+    "classes": {
+      "CClientAlphaProperty": {
+        "fields": {
+          "m_bAlphaOverride": 0,
+          "m_bShadowAlphaOverride": 0,
+          "m_flFadeScale": 28,
+          "m_flRenderFxDuration": 36,
+          "m_flRenderFxStartTime": 32,
+          "m_nAlpha": 19,
+          "m_nDesyncOffset": 20,
+          "m_nDistFadeEnd": 26,
+          "m_nDistFadeStart": 24,
+          "m_nRenderFX": 16,
+          "m_nRenderMode": 17,
+          "m_nReserved": 0,
+          "m_nReserved2": 22
+        },
+        "metadata": [],
+        "parent": null
+      },
+      "CCompositeMaterialEditorDoc": {
+        "fields": {
+          "m_KVthumbnail": 40,
+          "m_Points": 16,
+          "m_nVersion": 8
+        },
+        "metadata": [
+          {
+            "name": "MGetKV3ClassDefaults",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      },
+      "CFlashlightEffect": {
+        "fields": {
+          "m_FlashlightTexture": 96,
+          "m_MuzzleFlashTexture": 104,
+          "m_bCastsShadows": 88,
+          "m_bIsOn": 16,
+          "m_bMuzzleFlashEnabled": 32,
+          "m_flCurrentPullBackDist": 92,
+          "m_flFarZ": 80,
+          "m_flFov": 76,
+          "m_flLinearAtten": 84,
+          "m_flMuzzleFlashBrightness": 36,
+          "m_quatMuzzleFlashOrientation": 48,
+          "m_textureName": 112,
+          "m_vecMuzzleFlashOrigin": 64
+        },
+        "metadata": [],
+        "parent": null
+      },
+      "CGlobalLightBase": {
+        "fields": {
+          "m_AmbientColor1": 110,
+          "m_AmbientColor2": 114,
+          "m_AmbientColor3": 118,
+          "m_AmbientDirection": 56,
+          "m_InspectorSpecularDirection": 80,
+          "m_LightColor": 106,
+          "m_ShadowDirection": 44,
+          "m_SpecularColor": 100,
+          "m_SpecularDirection": 68,
+          "m_SpotLightAngles": 32,
+          "m_SpotLightOrigin": 20,
+          "m_ViewAngles": 224,
+          "m_ViewOrigin": 212,
+          "m_WorldPoints": 240,
+          "m_bBackgroundClearNotRequired": 142,
+          "m_bEnableSeparateSkyboxFog": 196,
+          "m_bEnableShadows": 140,
+          "m_bEnabled": 105,
+          "m_bOldEnableShadows": 141,
+          "m_bSpotLight": 16,
+          "m_bStartDisabled": 104,
+          "m_flAmbientScale1": 176,
+          "m_flAmbientScale2": 180,
+          "m_flCloud1Direction": 152,
+          "m_flCloud1Speed": 148,
+          "m_flCloud2Direction": 160,
+          "m_flCloud2Speed": 156,
+          "m_flCloudScale": 144,
+          "m_flFOV": 128,
+          "m_flFarZ": 136,
+          "m_flFoWDarkness": 192,
+          "m_flGroundScale": 184,
+          "m_flLightScale": 188,
+          "m_flNearZ": 132,
+          "m_flSpecularIndependence": 96,
+          "m_flSpecularPower": 92,
+          "m_flSunDistance": 124,
+          "m_flViewFoV": 236,
+          "m_hEnvSky": 1212,
+          "m_hEnvWind": 1208,
+          "m_vFogOffsetLayer0": 1192,
+          "m_vFogOffsetLayer1": 1200,
+          "m_vFowColor": 200
+        },
+        "metadata": [],
+        "parent": null
+      },
+      "CInterpolatedValue": {
+        "fields": {
+          "m_flEndTime": 4,
+          "m_flEndValue": 12,
+          "m_flStartTime": 0,
+          "m_flStartValue": 8,
+          "m_nInterpType": 16
+        },
+        "metadata": [],
+        "parent": null
+      },
+      "CInventoryImageData": {
+        "fields": {
+          "inventory_image_data": 16,
+          "m_nNodeType": 0,
+          "name": 8
+        },
+        "metadata": [
+          {
+            "name": "MGetKV3ClassDefaults",
+            "type": "Unknown"
+          },
+          {
+            "name": "MVDataOutlinerDetailExpr",
+            "type": "Unknown"
+          },
+          {
+            "name": "MVDataOverlayType",
+            "type": "Unknown"
+          },
+          {
+            "name": "MVDataPreviewWidget",
+            "type": "Unknown"
+          },
+          {
+            "name": "MVDataOutlinerLeafNameFn",
+            "type": "Unknown"
+          },
+          {
+            "name": "MVDataOutlinerLeafColorFn",
+            "type": "Unknown"
+          },
+          {
+            "name": "MVDataOutlinerLeafDetailFn",
+            "type": "Unknown"
+          },
+          {
+            "name": "MVDataVirtualNodeFactoryFn",
+            "type": "Unknown"
+          },
+          {
+            "name": "MVDataPreLoadFixupFn",
+            "type": "Unknown"
+          },
+          {
+            "name": "MVDataPostSaveFixupFn",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      },
+      "CNmEventConsumerHudModelArmsAttributes": {
+        "fields": {},
+        "metadata": [
+          {
+            "name": "MGetKV3ClassDefaults",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      },
+      "CPlayerSprayDecalRenderHelper": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "C_CSGO_PreviewPlayer_GraphController": {
+        "fields": {
+          "m_bCT": 888,
+          "m_nTeamPreviewRandom": 776,
+          "m_pszCharacterMode": 616,
+          "m_pszEndOfMatchCelebration": 736,
+          "m_pszTeamPreviewPosition": 696,
+          "m_pszTeamPreviewVariant": 656,
+          "m_pszWeaponState": 808,
+          "m_pszWeaponType": 848
+        },
+        "metadata": [],
+        "parent": null
+      },
+      "C_CommandContext": {
+        "fields": {
+          "command_number": 160,
+          "needsprocessing": 0
+        },
+        "metadata": [],
+        "parent": null
+      },
+      "C_IronSightController": {
+        "fields": {
+          "m_angDeltaAverage": 48,
+          "m_angViewLast": 144,
+          "m_bIronSightAvailable": 16,
+          "m_flFiringInaccuracyExtraWidthMultiplier": 164,
+          "m_flInterpolationLastUpdated": 44,
+          "m_flIronSightAmount": 20,
+          "m_flIronSightAmountBiased": 28,
+          "m_flIronSightAmountBiased_Interpolated": 40,
+          "m_flIronSightAmountGained": 24,
+          "m_flIronSightAmountGained_Interpolated": 36,
+          "m_flIronSightAmount_Interpolated": 32,
+          "m_flSpeedRatio": 168,
+          "m_vecDotCoords": 156
+        },
+        "metadata": [],
+        "parent": null
+      },
+      "CompMatMutatorCondition_t": {
+        "fields": {
+          "m_bPassWhenTrue": 32,
+          "m_nMutatorCondition": 0,
+          "m_strMutatorConditionContainerName": 8,
+          "m_strMutatorConditionContainerVarName": 16,
+          "m_strMutatorConditionContainerVarValue": 24
+        },
+        "metadata": [
+          {
+            "name": "MGetKV3ClassDefaults",
+            "type": "Unknown"
+          },
+          {
+            "name": "MPropertyElementNameFn",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      },
+      "CompMatPropertyMutator_t": {
+        "fields": {
+          "m_bCaptureInRenderDoc": 785,
+          "m_bEnabled": 0,
+          "m_bIsScratchTarget": 772,
+          "m_bSplatDebugInfo": 784,
+          "m_colDrawText_Color": 872,
+          "m_nMutatorCommandType": 4,
+          "m_nResolution": 768,
+          "m_nSetValue_Value": 104,
+          "m_strCompressionFormat": 776,
+          "m_strCopyKeysWithSuffix_FindSuffix": 88,
+          "m_strCopyKeysWithSuffix_InputContainerSrc": 80,
+          "m_strCopyKeysWithSuffix_ReplaceSuffix": 96,
+          "m_strCopyMatchingKeys_InputContainerSrc": 72,
+          "m_strCopyProperty_InputContainerProperty": 24,
+          "m_strCopyProperty_InputContainerSrc": 16,
+          "m_strCopyProperty_TargetProperty": 32,
+          "m_strDrawText_Font": 880,
+          "m_strDrawText_InputContainerProperty": 856,
+          "m_strDrawText_InputContainerSrc": 848,
+          "m_strGenerateTexture_InitialContainer": 760,
+          "m_strGenerateTexture_TargetParam": 752,
+          "m_strInitWith_Container": 8,
+          "m_strPopInputQueue_Container": 840,
+          "m_strRandomRollInputVars_SeedInputVar": 40,
+          "m_vecConditionalMutators": 816,
+          "m_vecConditions": 888,
+          "m_vecDrawText_Position": 864,
+          "m_vecRandomRollInputVars_InputVarsToRoll": 48,
+          "m_vecTexGenInstructions": 792
+        },
+        "metadata": [
+          {
+            "name": "MGetKV3ClassDefaults",
+            "type": "Unknown"
+          },
+          {
+            "name": "MPropertyElementNameFn",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      },
+      "CompositeMaterialAssemblyProcedure_t": {
+        "fields": {
+          "m_vecCompMatIncludes": 0,
+          "m_vecCompositeInputContainers": 48,
+          "m_vecMatchFilters": 24,
+          "m_vecPropertyMutators": 72
+        },
+        "metadata": [
+          {
+            "name": "MGetKV3ClassDefaults",
+            "type": "Unknown"
+          },
+          {
+            "name": "MPropertyElementNameFn",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      },
+      "CompositeMaterialEditorPoint_t": {
+        "fields": {
+          "m_ChildModelName": 256,
+          "m_KVModelStateChoices": 232,
+          "m_ModelName": 0,
+          "m_bEnableChildModel": 248,
+          "m_flCycle": 228,
+          "m_nSequenceIndex": 224,
+          "m_vecCompositeMaterialAssemblyProcedures": 480,
+          "m_vecCompositeMaterials": 504
+        },
+        "metadata": [
+          {
+            "name": "MGetKV3ClassDefaults",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      },
+      "CompositeMaterialInputContainer_t": {
+        "fields": {
+          "m_bEnabled": 0,
+          "m_bExposeExternally": 280,
+          "m_nCompositeMaterialInputContainerSourceType": 4,
+          "m_strAlias": 240,
+          "m_strAttrName": 232,
+          "m_strAttrNameForVar": 272,
+          "m_strSpecificContainerMaterial": 8,
+          "m_vecLooseVariables": 248
+        },
+        "metadata": [
+          {
+            "name": "MGetKV3ClassDefaults",
+            "type": "Unknown"
+          },
+          {
+            "name": "MPropertyElementNameFn",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      },
+      "CompositeMaterialInputLooseVariable_t": {
+        "fields": {
+          "m_bExposeExternally": 8,
+          "m_bExposedVariableIsFixedRange": 32,
+          "m_bHasFloatBounds": 88,
+          "m_bValueBoolean": 68,
+          "m_cValueColor4": 140,
+          "m_flValueFloatW": 128,
+          "m_flValueFloatW_Max": 136,
+          "m_flValueFloatW_Min": 132,
+          "m_flValueFloatX": 92,
+          "m_flValueFloatX_Max": 100,
+          "m_flValueFloatX_Min": 96,
+          "m_flValueFloatY": 104,
+          "m_flValueFloatY_Max": 112,
+          "m_flValueFloatY_Min": 108,
+          "m_flValueFloatZ": 116,
+          "m_flValueFloatZ_Max": 124,
+          "m_flValueFloatZ_Min": 120,
+          "m_nPanoramaRenderRes": 640,
+          "m_nTextureType": 616,
+          "m_nValueIntW": 84,
+          "m_nValueIntX": 72,
+          "m_nValueIntY": 76,
+          "m_nValueIntZ": 80,
+          "m_nValueSystemVar": 144,
+          "m_nVariableType": 64,
+          "m_strExposedFriendlyGroupName": 24,
+          "m_strExposedFriendlyName": 16,
+          "m_strExposedHiddenWhenTrue": 48,
+          "m_strExposedValueList": 56,
+          "m_strExposedVisibleWhenTrue": 40,
+          "m_strName": 0,
+          "m_strPanoramaPanelPath": 632,
+          "m_strResourceMaterial": 152,
+          "m_strString": 624,
+          "m_strTextureCompilationVtexTemplate": 608,
+          "m_strTextureContentAssetPath": 376,
+          "m_strTextureRuntimeResourcePath": 384
+        },
+        "metadata": [
+          {
+            "name": "MGetKV3ClassDefaults",
+            "type": "Unknown"
+          },
+          {
+            "name": "MPropertyElementNameFn",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      },
+      "CompositeMaterialMatchFilter_t": {
+        "fields": {
+          "m_bPassWhenTrue": 24,
+          "m_nCompositeMaterialMatchFilterType": 0,
+          "m_strMatchFilter": 8,
+          "m_strMatchValue": 16
+        },
+        "metadata": [
+          {
+            "name": "MGetKV3ClassDefaults",
+            "type": "Unknown"
+          },
+          {
+            "name": "MPropertyElementNameFn",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      },
+      "CompositeMaterial_t": {
+        "fields": {
+          "m_FinalKVs": 88,
+          "m_PreGenerationKVs": 24,
+          "m_TargetKVs": 8,
+          "m_vecGeneratedTextures": 128
+        },
+        "metadata": [
+          {
+            "name": "MPropertyElementNameFn",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      },
+      "GeneratedTextureHandle_t": {
+        "fields": {
+          "m_strBitmapName": 0
+        },
+        "metadata": [
+          {
+            "name": "MPropertyElementNameFn",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      },
+      "IClientAlphaProperty": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "TimedEvent": {
+        "fields": {
+          "m_TimeBetweenEvents": 0,
+          "m_fNextEvent": 4
+        },
+        "metadata": [],
+        "parent": null
+      },
+      "inv_image_camera_t": {
+        "fields": {
+          "angle": 0,
+          "fov": 12,
+          "orbit_distance": 48,
+          "target": 24,
+          "target_nudge": 36,
+          "zfar": 20,
+          "znear": 16
+        },
+        "metadata": [
+          {
+            "name": "MGetKV3ClassDefaults",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      },
+      "inv_image_data_t": {
+        "fields": {
+          "camera": 48,
+          "item": 16,
+          "light0": 156,
+          "light1": 188,
+          "lightfill": 128,
+          "lightsun": 100,
+          "map": 0
+        },
+        "metadata": [
+          {
+            "name": "MGetKV3ClassDefaults",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      },
+      "inv_image_item_t": {
+        "fields": {
+          "angle": 12,
+          "pose_sequence": 24,
+          "position": 0
+        },
+        "metadata": [
+          {
+            "name": "MGetKV3ClassDefaults",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      },
+      "inv_image_light_barn_t": {
+        "fields": {
+          "angle": 12,
+          "brightness": 24,
+          "color": 0,
+          "orbit_distance": 28
+        },
+        "metadata": [
+          {
+            "name": "MGetKV3ClassDefaults",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      },
+      "inv_image_light_fill_t": {
+        "fields": {
+          "angle": 12,
+          "brightness": 24,
+          "color": 0
+        },
+        "metadata": [
+          {
+            "name": "MGetKV3ClassDefaults",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      },
+      "inv_image_light_sun_t": {
+        "fields": {
+          "angle": 12,
+          "brightness": 24,
+          "color": 0
+        },
+        "metadata": [
+          {
+            "name": "MGetKV3ClassDefaults",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      },
+      "inv_image_map_t": {
+        "fields": {
+          "map_name": 0,
+          "map_rotation": 8
+        },
+        "metadata": [
+          {
+            "name": "MGetKV3ClassDefaults",
+            "type": "Unknown"
+          }
+        ],
+        "parent": null
+      }
+    },
+    "enums": {
+      "FollowingFriendseal_epic_1_": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "OnARollBragseal_epic_1_": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "TLK_CW_DroppedBombseal_epic": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "TLK_CW_InPositionseal_epic": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "TeamLeadWonseal_epic": {
+        "alignment": 10,
+        "members": {
+          "": 0,
+          "\u0001�_�\u0002": 2828009755504,
+          "\u0004": 257,
+          "\u0005": 2827695596322,
+          "\b\u0015�^�\u0002": 4294967295,
+          "\bL���": 2827697347200,
+          "\b��_�\u0002": 140713930618480,
+          "\n": 0,
+          "\u000b1": 2827695596478,
+          "\u00105���": 0,
+          "\u0010�\u000br�\u0002": 0,
+          "\u0010�\u001dr�\u0002": 6,
+          "\u0011": 139058754429,
+          "\u0015": 257,
+          "\u0018\u0016�^�\u0002": 2827696550864,
+          " ": 0,
+          " \fPr�\u0002": 0,
+          " \"r�\u0002": 512,
+          " E���": 140713929240464,
+          " cb@��N@_`<@\u001eU+@$\u0018\u001c@\u00043\u000f@�^\u0005@\b �?\u0006 �?�;\u0005@��\u000e@O�\u001b@E\b+@\u001d\u000b<@>wN@#": 0,
+          " ����": 5670608053477572609,
+          "%": 257,
+          ".fm1_enemies_left_three_03": 4294967295,
+          ".fm1_tmap_de_dust24": 0,
+          "06": 0,
+          "7": 2827695596259,
+          "?\u0001�": 2827692902034,
+          "@": 0,
+          "@�": 257,
+          "@�\u001dr�\u0002": 4,
+          "@��_�\u0002": 0,
+          "HW�^�\u0002": 0,
+          "L�_�\u0002": 2828009753152,
+          "Map_BackEntrancegendarmerie_male": 0,
+          "NotSaidPepTalkScaredgendarmerie_male": 0,
+          "P�\u001dr�\u0002": 4,
+          "TDM_GainedLead": 2827695950992,
+          "TDM_LostLead": 2827695951040,
+          "TLK_Blinded": 2827681791936,
+          "TLK_CW.BombCarrierHere": 2827695954464,
+          "TLK_CW.BombsiteClear": 2827695954400,
+          "TLK_CW.CheckHostage": 2827695954016,
+          "TLK_CW.DroppedBomb": 2827695954416,
+          "TLK_CW.EcoRound": 2827695954064,
+          "TLK_CW.FollowMe": 2827695953968,
+          "TLK_CW.GoA": 2827695954176,
+          "TLK_CW.GoB": 2827695954208,
+          "TLK_CW.GoToLocMid": 2827695954224,
+          "TLK_CW.GuardingDroppedBomb": 2827695954384,
+          "TLK_CW.HoldPosition": 2827695954336,
+          "TLK_CW.NeedDecoy": 2827695954240,
+          "TLK_CW.NeedDrop": 2827695954112,
+          "TLK_CW.NeedFire": 2827695954304,
+          "TLK_CW.NeedFlash": 2827695954320,
+          "TLK_CW.NeedGrenade": 2827695954272,
+          "TLK_CW.NeedPlan": 2827695954144,
+          "TLK_CW.NeedQuiet": 2827695954032,
+          "TLK_CW.NeedSmoke": 2827695954256,
+          "TLK_CW.Regroup": 2827695954368,
+          "TLK_CW.SeesEnemiesMultiple": 2827695954496,
+          "TLK_CW.SeesSingleEnemy": 2827695954480,
+          "TLK_CW.SniperWarning": 2827695954448,
+          "TLK_CW.SpendRound": 2827695954080,
+          "TLK_CW.SpreadOut": 2827695953984,
+          "TLK_CW.StickTogether": 2827695953936,
+          "TLK_CW.TeamFallBack": 2827695954000,
+          "TLK_CW.WeHaveTheBomb": 2827695954432,
+          "TLK_Clear": 2826617249328,
+          "TLK_ClearedArea": 2827695947824,
+          "TLK_CommanderDown": 2827695947856,
+          "TLK_CoveringFriend": 2827695947888,
+          "TLK_DeathCry": 2827695947936,
+          "TLK_DefusingBomb": 2827695947968,
+          "TLK_Disagree": 2827695948016,
+          "TLK_EnemyDown": 2827695948064,
+          "TLK_FriendlyFire": 2827695948160,
+          "TLK_GoingToGuardLooseBomb": 2827695948192,
+          "TLK_GuardingLooseBomb": 2827695948224,
+          "TLK_HeardNoise": 2827695948272,
+          "TLK_InCombat": 2827695948400,
+          "TLK_KilledFriend": 2827695948432,
+          "TLK_KilledMyEnemy": 2827695948464,
+          "TLK_LastManStanding": 2827695948496,
+          "TLK_LostEnemy": 2827695948544,
+          "TLK_Map_Back": 2827695948592,
+          "TLK_Map_Bridge": 2827695948640,
+          "TLK_Map_CTSpawn": 2827695948688,
+          "TLK_Map_DoubleDoors": 2827695948736,
+          "TLK_Map_Overpass": 2827695948768,
+          "TLK_Map_Stairwell": 2827695948800,
+          "TLK_Map_TRamp": 2827695948848,
+          "TLK_Map_TSpawn": 2827695948896,
+          "TLK_Negative": 2827695948960,
+          "TLK_NoEnemiesLeft": 2827695949008,
+          "TLK_OnMyWay": 2827695949104,
+          "TLK_OneEnemyLeft": 2827695949056,
+          "TLK_PinnedDown": 2827695949216,
+          "TLK_Radio.Affirmitive": 2827695949312,
+          "TLK_Radio.Cheer": 2827695949360,
+          "TLK_Radio.Compliment": 2827695949392,
+          "TLK_Radio.CoverMe": 2827695949424,
+          "TLK_Radio.Decoy": 2827695949472,
+          "TLK_Radio.EnemyDown": 2827695949504,
+          "TLK_Radio.FireInTheHole": 2827695949552,
+          "TLK_Radio.Flashbang": 2827695949600,
+          "TLK_Radio.FollowMe": 2827695949632,
+          "TLK_Radio.GetInPosition": 2827695949664,
+          "TLK_Radio.GetOutOfThere": 2827695949696,
+          "TLK_Radio.GoA": 2827695951136,
+          "TLK_Radio.GoB": 2827695951184,
+          "TLK_Radio.GoGoGo": 2827695949728,
+          "TLK_Radio.GoToLocBack": 2827695953584,
+          "TLK_Radio.GoToLocBombA": 2827695953552,
+          "TLK_Radio.GoToLocBombB": 2827695953568,
+          "TLK_Radio.GoToLocC4": 2827695953600,
+          "TLK_Radio.GoToLocCatwalk": 2827695953616,
+          "TLK_Radio.GoToLocConnector": 2827695953632,
+          "TLK_Radio.GoToLocDoor": 2827695953648,
+          "TLK_Radio.GoToLocDoubleDoors": 2827695953664,
+          "TLK_Radio.GoToLocEnemySpawn": 2827695953680,
+          "TLK_Radio.GoToLocFront": 2827695953696,
+          "TLK_Radio.GoToLocHole": 2827695953712,
+          "TLK_Radio.GoToLocHostage": 2827695953728,
+          "TLK_Radio.GoToLocHostageEscapeZone": 2827695953744,
+          "TLK_Radio.GoToLocHut": 2827695953760,
+          "TLK_Radio.GoToLocLong": 2827695953776,
+          "TLK_Radio.GoToLocMid": 2827695953792,
+          "TLK_Radio.GoToLocOurSpawn": 2827695953808,
+          "TLK_Radio.GoToLocOverpass": 2827695953824,
+          "TLK_Radio.GoToLocPalace": 2827695953840,
+          "TLK_Radio.GoToLocPlatform": 2827695953856,
+          "TLK_Radio.GoToLocRamp": 2827695953872,
+          "TLK_Radio.GoToLocSnipersNest": 2827695953888,
+          "TLK_Radio.GoToLocStairs": 2827695953904,
+          "TLK_Radio.GoToLocYard": 2827695953920,
+          "TLK_Radio.HoldPosition": 2827695949760,
+          "TLK_Radio.ImAtLocBack": 2827695952096,
+          "TLK_Radio.ImAtLocBombA": 2827695952032,
+          "TLK_Radio.ImAtLocBombB": 2827695952064,
+          "TLK_Radio.ImAtLocC4": 2827695952128,
+          "TLK_Radio.ImAtLocCatwalk": 2827695952160,
+          "TLK_Radio.ImAtLocConnector": 2827695952192,
+          "TLK_Radio.ImAtLocDoor": 2827695952224,
+          "TLK_Radio.ImAtLocDoubleDoors": 2827695952256,
+          "TLK_Radio.ImAtLocEnemySpawn": 2827695952288,
+          "TLK_Radio.ImAtLocFront": 2827695952320,
+          "TLK_Radio.ImAtLocHole": 2827695952352,
+          "TLK_Radio.ImAtLocHostage": 2827695952384,
+          "TLK_Radio.ImAtLocHostageEscapeZone": 2827695952416,
+          "TLK_Radio.ImAtLocHut": 2827695952448,
+          "TLK_Radio.ImAtLocLong": 2827695952480,
+          "TLK_Radio.ImAtLocMid": 2827695952512,
+          "TLK_Radio.ImAtLocOurSpawn": 2827695952544,
+          "TLK_Radio.ImAtLocOverpass": 2827695952576,
+          "TLK_Radio.ImAtLocPalace": 2827695952608,
+          "TLK_Radio.ImAtLocPlatform": 2827695952640,
+          "TLK_Radio.ImAtLocRamp": 2827695952672,
+          "TLK_Radio.ImAtLocSnipersNest": 2827695952704,
+          "TLK_Radio.ImAtLocStairs": 2827695952736,
+          "TLK_Radio.ImAtLocYard": 2827695952768,
+          "TLK_Radio.InPosition": 2827695949792,
+          "TLK_Radio.Incendiary": 2827695949888,
+          "TLK_Radio.LocBack": 2827695951312,
+          "TLK_Radio.LocBombA": 2827695951248,
+          "TLK_Radio.LocBombB": 2827695951280,
+          "TLK_Radio.LocC4": 2827695951360,
+          "TLK_Radio.LocCatwalk": 2827695951392,
+          "TLK_Radio.LocConnector": 2827695951424,
+          "TLK_Radio.LocDoor": 2827695951456,
+          "TLK_Radio.LocDoubleDoors": 2827695951488,
+          "TLK_Radio.LocEnemySpawn": 2827695951520,
+          "TLK_Radio.LocFront": 2827695951552,
+          "TLK_Radio.LocHole": 2827695951584,
+          "TLK_Radio.LocHostage": 2827695951616,
+          "TLK_Radio.LocHostageEscapeZone": 2827695951648,
+          "TLK_Radio.LocHut": 2827695951680,
+          "TLK_Radio.LocLong": 2827695951712,
+          "TLK_Radio.LocMid": 2827695951744,
+          "TLK_Radio.LocOurSpawn": 2827695951776,
+          "TLK_Radio.LocOverpass": 2827695951808,
+          "TLK_Radio.LocPalace": 2827695951840,
+          "TLK_Radio.LocPlatform": 2827695951872,
+          "TLK_Radio.LocRamp": 2827695951904,
+          "TLK_Radio.LocSnipersNest": 2827695951936,
+          "TLK_Radio.LocStairs": 2827695951968,
+          "TLK_Radio.LocYard": 2827695952000,
+          "TLK_Radio.Molotov": 2827695949856,
+          "TLK_Radio.NeedBackup": 2827695949920,
+          "TLK_Radio.NeedDrop": 2827695951216,
+          "TLK_Radio.Negative": 2827695949952,
+          "TLK_Radio.OMWLocBack": 2827695952864,
+          "TLK_Radio.OMWLocBombA": 2827695952800,
+          "TLK_Radio.OMWLocBombB": 2827695952832,
+          "TLK_Radio.OMWLocC4": 2827695952896,
+          "TLK_Radio.OMWLocCatwalk": 2827695952928,
+          "TLK_Radio.OMWLocConnector": 2827695952960,
+          "TLK_Radio.OMWLocDoor": 2827695952992,
+          "TLK_Radio.OMWLocDoubleDoors": 2827695953024,
+          "TLK_Radio.OMWLocEnemySpawn": 2827695953056,
+          "TLK_Radio.OMWLocFront": 2827695953088,
+          "TLK_Radio.OMWLocHole": 2827695953120,
+          "TLK_Radio.OMWLocHostage": 2827695953152,
+          "TLK_Radio.OMWLocHostageEscapeZone": 2827695953184,
+          "TLK_Radio.OMWLocHut": 2827695953216,
+          "TLK_Radio.OMWLocLong": 2827695953248,
+          "TLK_Radio.OMWLocMid": 2827695953280,
+          "TLK_Radio.OMWLocOurSpawn": 2827695953312,
+          "TLK_Radio.OMWLocOverpass": 2827695953344,
+          "TLK_Radio.OMWLocPalace": 2827695953376,
+          "TLK_Radio.OMWLocPlatform": 2827695953408,
+          "TLK_Radio.OMWLocRamp": 2827695953440,
+          "TLK_Radio.OMWLocSnipersNest": 2827695953472,
+          "TLK_Radio.OMWLocStairs": 2827695953504,
+          "TLK_Radio.OMWLocYard": 2827695953536,
+          "TLK_Radio.Regroup": 2827695949984,
+          "TLK_Radio.ReportInTeam": 2827695950048,
+          "TLK_Radio.ReportingIn": 2827695950016,
+          "TLK_Radio.Roger": 2827695950096,
+          "TLK_Radio.SectorClear": 2827695950128,
+          "TLK_Radio.Smoke": 2827695950176,
+          "TLK_Radio.Sorry": 2827695951088,
+          "TLK_Radio.StickTogether": 2827695950208,
+          "TLK_Radio.TeamFallBack": 2827695950272,
+          "TLK_Radio.Thanks": 2827695950304,
+          "TLK_Radio.YouTakeThePoint": 2827695950336,
+          "TLK_ReportingIn": 2827695950384,
+          "TLK_RequestReport": 2827695950416,
+          "TLK_ScaredEmote": 2827695950464,
+          "TLK_SniperKilled": 2827695950496,
+          "TLK_SniperWarning": 2827695950528,
+          "TLK_SpottedBomber": 2827695950560,
+          "TLK_SpottedLooseBomb": 2827695950592,
+          "TLK_TheyPickedUpTheBomb": 2827695950624,
+          "TLK_ThreeEnemiesLeft": 2827695950656,
+          "TLK_TwoEnemiesLeft": 2827695950688,
+          "TLK_WaitingForHumanToDefuseBomb": 2827695950720,
+          "TLK_WaitingForHumanToDefuseBombPanic": 2827695950752,
+          "TLK_WaitingHere": 2827695950800,
+          "TLK_WonRound": 2827695950864,
+          "TLK_WonRoundClean": 2827695950896,
+          "TLK_WonRoundQuickly": 2827695950944,
+          "TLK_help": 2827695948352,
+          "TLK_radio.takingfire": 2827695950240,
+          "Talkgendarmerie_fem_epic:1:1": 25769803777,
+          "Talkgendarmerie_fem_epic:1:1,SaidHelpgendarmerie_fem_epic:1:3": 25769803777,
+          "Talkgendarmerie_fem_epic:1:1,SaidPepTalkScaredgendarmerie_fem_epic:1:15": 25769803777,
+          "Talkseal_diver_01:1:1": 8589934593,
+          "Talkseal_diver_01:1:1                                                                                                                                                                                       T": 8589934593,
+          "_05": 4294967295,
+          "`": 0,
+          "`\u0016pr�\u0002": 0,
+          "`�_r�\u0002": 2048,
+          "`��_�\u0002": 0,
+          "gendarmerie_fem_epic.ff2_CommanderDown01": 25769803776,
+          "gendarmerie_fem_epic.ff2_CommanderDown02": 25769803776,
+          "gendarmerie_fem_epic.ff2_CommanderDown03": 25769803776,
+          "gendarmerie_fem_epic.ff2_affirmation_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_affirmation_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_affirmation_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_affirmation_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_affirmation_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_affirmation_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_affirmation_07": 25769803776,
+          "gendarmerie_fem_epic.ff2_affirmation_08": 25769803776,
+          "gendarmerie_fem_epic.ff2_affirmation_09": 25769803776,
+          "gendarmerie_fem_epic.ff2_affirmation_10": 25769803776,
+          "gendarmerie_fem_epic.ff2_affirmation_11": 25769803776,
+          "gendarmerie_fem_epic.ff2_affirmation_12": 25769803776,
+          "gendarmerie_fem_epic.ff2_agree_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_agree_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_agree_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_agree_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_agree_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_agree_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_at_c4_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_at_doubledoors_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_at_enemy_spawn_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_at_enemy_spawn_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_at_enemy_spawn_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_at_enemy_spawn_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_at_our_spawn_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_at_our_spawn_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_at_our_spawn_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_at_our_spawn_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_at_overpass_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_at_ramp_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_at_stairs_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_blinded_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_blinded_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_blinded_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_blinded_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_bombsite_clear_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_bombsite_clear_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_bombsite_clear_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_cheer_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_cheer_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_cheer_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_cheer_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_cheer_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_cheer_07": 25769803776,
+          "gendarmerie_fem_epic.ff2_cheer_08": 25769803776,
+          "gendarmerie_fem_epic.ff2_cheer_09": 25769803776,
+          "gendarmerie_fem_epic.ff2_cheer_10": 25769803776,
+          "gendarmerie_fem_epic.ff2_cheer_11": 25769803776,
+          "gendarmerie_fem_epic.ff2_cheer_12": 25769803776,
+          "gendarmerie_fem_epic.ff2_cheer_13": 25769803776,
+          "gendarmerie_fem_epic.ff2_cheer_14": 25769803776,
+          "gendarmerie_fem_epic.ff2_cheer_15": 25769803776,
+          "gendarmerie_fem_epic.ff2_cheer_16": 25769803776,
+          "gendarmerie_fem_epic.ff2_cheer_18": 25769803776,
+          "gendarmerie_fem_epic.ff2_close_call_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_close_call_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_close_call_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_close_call_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_close_call_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_close_call_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_compliment_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_compliment_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_compliment_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_compliment_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_compliment_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_compliment_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_compliment_07": 25769803776,
+          "gendarmerie_fem_epic.ff2_covering_friend_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_covering_friend_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_covering_friend_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_covering_friend_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_covering_friend_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_covering_friend_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_death_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_death_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_death_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_death_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_defusing_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_defusing_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_defusing_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_defusing_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_defusing_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_defusing_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_defusing_07": 25769803776,
+          "gendarmerie_fem_epic.ff2_defusing_08": 25769803776,
+          "gendarmerie_fem_epic.ff2_disagree_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_disagree_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_disagree_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_disagree_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_disagree_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_disagree_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_disagree_07": 25769803776,
+          "gendarmerie_fem_epic.ff2_enemies_left_none_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_enemies_left_none_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_enemies_left_none_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_enemies_left_none_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_enemies_left_none_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_enemies_left_none_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_enemies_left_none_07": 25769803776,
+          "gendarmerie_fem_epic.ff2_enemies_left_one_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_enemies_left_one_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_enemies_left_one_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_enemies_left_one_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_enemies_left_one_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_following_friend_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_following_friend_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_following_friend_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_following_friend_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_following_friend_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_following_friend_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_guarding_bomb_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_guarding_bomb_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_guarding_bomb_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_hear_bomb_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_hear_bomb_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_hear_bomb_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_hear_bomb_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_heard_sound_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_heard_sound_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_heard_sound_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_heard_sound_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_heard_sound_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_i_killed_enemy_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_i_killed_enemy_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_i_killed_enemy_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_i_killed_enemy_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_i_killed_enemy_07": 25769803776,
+          "gendarmerie_fem_epic.ff2_i_killed_enemy_11": 25769803776,
+          "gendarmerie_fem_epic.ff2_i_killed_enemy_13": 25769803776,
+          "gendarmerie_fem_epic.ff2_i_killed_enemy_14": 25769803776,
+          "gendarmerie_fem_epic.ff2_i_killed_enemy_15": 25769803776,
+          "gendarmerie_fem_epic.ff2_i_killed_enemy_16": 25769803776,
+          "gendarmerie_fem_epic.ff2_last_unit_alive_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_last_unit_alive_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_last_unit_alive_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_last_unit_alive_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_last_unit_alive_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_last_unit_alive_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_lost_sight_enemy_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_lost_sight_enemy_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_lost_sight_enemy_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_lost_sight_enemy_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_lost_sight_enemy_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_lost_sight_enemy_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_negative_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_negative_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_negative_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_negative_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_negative_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_negative_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_negative_07": 25769803776,
+          "gendarmerie_fem_epic.ff2_negative_08": 25769803776,
+          "gendarmerie_fem_epic.ff2_omw_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_omw_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_omw_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_omw_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_omw_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_omw_back_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_omw_bridge_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_pinned_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_pinned_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_pinned_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_pinned_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_request_coverme_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_request_coverme_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_request_coverme_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_request_coverme_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_request_coverme_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_request_coverme_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_request_help_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_request_help_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_request_help_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_request_help_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_request_help_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_request_help_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_round_losing_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_round_losing_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_round_losing_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_round_losing_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_area_clear_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_area_clear_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_area_clear_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_area_clear_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_area_clear_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_area_clear_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_dropped_bomb_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_dropped_bomb_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_killed_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_killed_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_killed_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_killed_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_killed_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_killed_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_killed_07": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_killed_08": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_killed_09": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_killed_10": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_killed_11": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_killed_12": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_killed_13": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_killed_14": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_killed_15": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_enemy_killed_16": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_friend_killed_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_friend_killed_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_friend_killed_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_friend_killed_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_friend_killed_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_friend_killed_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_friend_killed_07": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_friend_killed_08": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_friend_killed_09": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_team_combo_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_team_combo_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_team_combo_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_team_combo_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_team_combo_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_team_combo_07": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_team_combo_08": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_team_combo_09": 25769803776,
+          "gendarmerie_fem_epic.ff2_sees_team_combo_10": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_07": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_08": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_09": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_10": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_friendly_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_friendly_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_friendly_03": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_friendly_04": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_friendly_05": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_friendly_06": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_friendly_07": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_friendly_08": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_friendly_09": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_friendly_10": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_friendly_11": 25769803776,
+          "gendarmerie_fem_epic.ff2_takingfire_friendly_12": 25769803776,
+          "gendarmerie_fem_epic.ff2_throwing_decoy_01": 25769803776,
+          "gendarmerie_fem_epic.ff2_throwing_decoy_02": 25769803776,
+          "gendarmerie_fem_epic.ff2_throwing_decoy_03": 25769803776,
+          "gendarmerie_male.fm1_affirmation_10": 0,
+          "gendarmerie_male.fm1_last_unit_alive_05": 0,
+          "gendarmerie_male.fm1_loc_ramp_01": 0,
+          "gendarmerie_male.fm1_negative_08": 0,
+          "handle": 2828009756160,
+          "hievement": 0,
+          "p\u0001�r�\u0002": 8,
+          "p#���": 140713929240464,
+          "pN���": 2828010503200,
+          "pW�r�\u0002": 5,
+          "pin": 2828009756256,
+          "p|ă�": 2828053552888,
+          "p훃�": 140713929240464,
+          "p�\u001dr�\u0002": 4,
+          "rce75": 0,
+          "ring": 2828009756032,
+          "seal_diver_01.am1_guarding_escapezone_01": 8589934592,
+          "seal_diver_01.am1_guarding_escapezone_02": 8589934592,
+          "seal_diver_01.am1_guarding_escapezone_03": 8589934592,
+          "seal_diver_01.am1_guarding_escapezone_04": 8589934592,
+          "seal_diver_01.am1_guarding_escapezone_05": 8589934592,
+          "seal_diver_01.am1_guarding_hostage_01": 8589934592,
+          "seal_diver_01.am1_guarding_hostage_02": 8589934592,
+          "seal_diver_01.am1_guarding_hostage_03": 8589934592,
+          "seal_diver_01.am1_guarding_hostage_04": 8589934592,
+          "seal_diver_01.am1_guarding_hostage_05": 8589934592,
+          "seal_diver_01.am1_heard_sound_01": 8589934592,
+          "seal_diver_01.am1_heard_sound_02": 8589934592,
+          "seal_diver_01.am1_heard_sound_03": 8589934592,
+          "seal_diver_01.am1_hostage_ready_01": 8589934592,
+          "seal_diver_01.am1_hostage_ready_02": 8589934592,
+          "seal_diver_01.am1_hostage_ready_03": 8589934592,
+          "seal_diver_01.am1_hostage_ready_04": 8589934592,
+          "seal_diver_01.am1_hostage_ready_05": 8589934592,
+          "seal_diver_01.am1_omw_to_plant_b_01": 8589934592,
+          "seal_diver_01.am1_omw_to_plant_b_02": 8589934592,
+          "seal_diver_01.am1_omw_to_plant_b_03": 8589934592,
+          "seal_diver_01.am1_omw_to_plant_b_04": 8589934592,
+          "seal_diver_01.am1_request_help_01": 8589934592,
+          "seal_diver_01.am1_sees_hostage_death_01": 8589934592,
+          "seal_diver_01.am1_sees_hostage_death_02": 8589934592,
+          "seal_diver_01.am1_sees_hostage_death_03": 8589934592,
+          "seal_diver_01.am1_sees_hostage_death_04": 8589934592,
+          "seal_diver_01.am1_sees_hostage_death_05": 8589934592,
+          "seal_diver_01.am1_sees_hostage_death_06": 8589934592,
+          "seal_diver_01.am1_sees_hostage_death_07": 8589934592,
+          "t28": 0,
+          "t�\u0002": 2828051371136,
+          "weapon": 0,
+          "weapon_offset": 2828009756336,
+          "": 257,
+          "Ж\u001dr�\u0002": 4,
+          "У�_�\u0002": 2827696551344,
+          "в\u001dr�\u0002": 4,
+          "�": 2827692966407,
+          "�\u0002": 2827692966407,
+          "�\u0003 u�\u0002": 2828053513155,
+          "�\n": 257,
+          "�\rQr�\u0002": 0,
+          "�\u000e\u000fr�\u0002": 512,
+          "�\u0010���": 29,
+          "�\u0016�^�\u0002": 4294967295,
+          "�\u001dr�\u0002": 4,
+          "�6!r�\u0002": 0,
+          "�6Cr�\u0002": 1024,
+          "�6dr�\u0002": 2048,
+          "�8mr�\u0002": 512,
+          "�B���": 2827696741120,
+          "�M���": 0,
+          "�Q�^�\u0002": 0,
+          "�X�r�\u0002": 5,
+          "�[���": 2827695827808,
+          "�k���": 2827695827680,
+          "�oă�": 2828053554008,
+          "�ˍr�\u0002": 2048,
+          "�Ӆr�\u0002": 2048,
+          "��\u001dr�\u0002": 4,
+          "��\u001fr�\u0002": 2048,
+          "��'r�\u0002": 1024,
+          "��;r�\u0002": 2048,
+          "��Gr�\u0002": 2048,
+          "��Mr�\u0002": 2048,
+          "��br�\u0002": 2048,
+          "��ur�\u0002": 2048,
+          "���_�\u0002": 2827692618608,
+          "������������\u0001": 4294967296,
+          "������������\u0001\u0002": 4294967296
+        },
+        "type": "unknown"
+      }
+    }
+  }
+}
