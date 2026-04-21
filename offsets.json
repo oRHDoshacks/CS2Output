@@ -4,6 +4,7 @@
     "dwEntityList": 38573840,
     "dwGameEntitySystem": 38573840,
     "dwGameEntitySystem_highestEntityIndex": 8336,
+    "dwGameRules": 27171712,
     "dwGlobalVars": 33834216,
     "dwGlowManager": 36833192,
     "dwLocalPlayerController": 36712064,
@@ -30,26 +31,14 @@
     "dwWindowHeight": 9495788,
     "dwWindowWidth": 9495784
   },
-  "filesystem_stdio.dll": {
-    "dwVFS": 2185040
-  },
   "inputsystem.dll": {
     "dwInputSystem": 273232
   },
   "matchmaking.dll": {
     "dwGameTypes": 1773440
   },
-  "materialsystem2.dll": {
-    "dwShaderSystem": 1426352
-  },
-  "server.dll": {
-    "dwServerTools": 31444664
-  },
   "soundsystem.dll": {
     "dwSoundSystem": 5317472,
     "dwSoundSystem_engineViewData": 124
-  },
-  "tier0.dll": {
-    "dwTier0": 3782928
   }
 }
